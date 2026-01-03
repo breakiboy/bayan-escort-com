@@ -1,0 +1,21 @@
+{
+  "name": "Bayan Escort",
+  "short_name": "BayanEscort",
+  "description": "Bayan Escort - İsviçre'de Ücretsiz Escort İlanları",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#e91e63",
+  "icons": [
+    {
+      "src": "https://6love.ch/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://6love.ch/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
